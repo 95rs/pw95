@@ -1,0 +1,27 @@
+# allows markdown files (*.md files) to show in the repo capsule
+*.md linguist-detectable
+
+# allows json files (*.json files) to show in the repo capsule
+*.json linguist-detectable
+# allows ts files (*.ts files) to show in the repo capsule
+*.ts linguist-detectable
+# allows toml files (*.toml files) to show in the repo capsule
+*.toml linguist-detectable
+# allows js files (*.js files) to show in the repo capsule
+*.js linguist-detectable
+
+# allows tsx files (*.tsx files) to show in the repo capsule
+*.tsx linguist-detectable
+# allows rs files (*.rs files) to show in the repo capsule
+*.rs linguist-detectable
+# allows html files (*.html files) to show in the repo capsule
+*.html linguist-detectable
+
+# allows png files (*.png files) to show in the repo capsule
+*.png linguist-detectable
+# allows svg files (*.svg files) to show in the repo capsule
+*.svg linguist-detectable
+# allows ico files (*.ico files) to show in the repo capsule
+*.ico linguist-detectable
+# allows icns files (*.icns files) to show in the repo capsule
+*.icns linguist-detectable
