@@ -1,0 +1,29 @@
+# Logs
+src/pw95/logs
+src/pw95/*.log
+src/pw95/npm-debug.log*
+src/pw95/yarn-debug.log*
+src/pw95/yarn-error.log*
+src/pw95/pnpm-debug.log*
+src/pw95/lerna-debug.log*
+
+src/pw95/node_modules
+src/pw95/dist
+src/pw95/dist-ssr
+src/pw95/*.local
+
+# Editor directories and files
+src/pw95/.idea
+src/pw95/.DS_Store
+src/pw95/*.suo
+src/pw95/*.ntvs*
+src/pw95/*.njsproj
+src/pw95/*.sln
+src/pw95/*.sw?
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
