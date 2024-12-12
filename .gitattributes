@@ -20,7 +20,7 @@
 # allows png files (*.png files) to show in the repo capsule
 *.png linguist-detectable
 # allows svg files (*.svg files) to show in the repo capsule
-*.svg linguist-detectable
+#*.svg linguist-detectable
 # allows ico files (*.ico files) to show in the repo capsule
 *.ico linguist-detectable
 # allows icns files (*.icns files) to show in the repo capsule
