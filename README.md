@@ -38,10 +38,11 @@ For a demo run these steps:
 
 1. Fork this project by going to the [fork page](https://github.com/95rs/pw95/fork)
 2. Clone the fork using: `git clone https://github.com/YOUR_USERNAME/pw95.git`
-3. Install the dependencies using [npm](https://npmjs.com): `npm install`
-4. Run the project using: `npm run tauri dev`
+3. Open the src/pw95 dir using: `cd src/pw95`
+4. Install the dependencies using [npm](https://npmjs.com): `npm install`
+5. Run the project using: `npm run tauri dev`
 
-Done in 4 simple steps.. How easy was that.
+Done in 5 simple steps.. How easy was that.
 Now you can edit the files to how you would want your program to look and function.
 
 ## Disclamers:
